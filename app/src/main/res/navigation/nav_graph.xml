@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name=""
+        android:name="com.chaveirinho.cadastrocpf.ui.home.HomeFragment"
         android:label="home_fragment"/>
 
 </navigation>
