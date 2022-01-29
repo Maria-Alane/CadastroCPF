@@ -1,7 +1,8 @@
-package com.chaveirinho.cadastrocpf
+package com.chaveirinho.cadastrocpf.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.chaveirinho.cadastrocpf.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
